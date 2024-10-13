@@ -1,5 +1,5 @@
 # Other Projects
-This folder contains other projects.
+This folder contains other projects that I made during college
 
 ## LTspice Project
 
